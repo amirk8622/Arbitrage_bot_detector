@@ -1,0 +1,9 @@
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\num_enum_derive-d5cd355ee3df206b.d: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\enum_attributes.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\parsing.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\utils.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\variant_attributes.rs
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\num_enum_derive-d5cd355ee3df206b.dll: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\enum_attributes.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\parsing.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\utils.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\variant_attributes.rs
+
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\lib.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\enum_attributes.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\parsing.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\utils.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\variant_attributes.rs:

@@ -1,0 +1,11 @@
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\getrandom-cf2fb09b8eebab62.d: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\libgetrandom-cf2fb09b8eebab62.rlib: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\libgetrandom-cf2fb09b8eebab62.rmeta: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs:

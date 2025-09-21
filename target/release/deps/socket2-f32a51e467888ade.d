@@ -1,0 +1,11 @@
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\socket2-f32a51e467888ade.d: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sockaddr.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\socket.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sockref.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sys\windows.rs
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\libsocket2-f32a51e467888ade.rlib: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sockaddr.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\socket.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sockref.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sys\windows.rs
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\libsocket2-f32a51e467888ade.rmeta: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sockaddr.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\socket.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sockref.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sys\windows.rs
+
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\lib.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sockaddr.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\socket.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sockref.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.0\src\sys\windows.rs:

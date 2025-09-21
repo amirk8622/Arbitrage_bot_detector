@@ -1,0 +1,11 @@
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\either-3a9b7054dfed579f.d: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\serde_untagged.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\serde_untagged_optional.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\iterator.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\into_either.rs
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\libeither-3a9b7054dfed579f.rlib: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\serde_untagged.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\serde_untagged_optional.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\iterator.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\into_either.rs
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\libeither-3a9b7054dfed579f.rmeta: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\serde_untagged.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\serde_untagged_optional.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\iterator.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\into_either.rs
+
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\lib.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\serde_untagged.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\serde_untagged_optional.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\iterator.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\either-1.15.0\src\into_either.rs:

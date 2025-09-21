@@ -1,0 +1,11 @@
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\hashers-ada84d3bf8fd69b6.d: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\mod.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\spooky_hash.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\pigeon.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\oz.rs
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\libhashers-ada84d3bf8fd69b6.rlib: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\mod.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\spooky_hash.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\pigeon.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\oz.rs
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\libhashers-ada84d3bf8fd69b6.rmeta: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\mod.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\spooky_hash.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\pigeon.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\oz.rs
+
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\lib.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\mod.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\spooky_hash.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\pigeon.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\oz.rs:

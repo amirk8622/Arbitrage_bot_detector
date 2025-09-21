@@ -1,0 +1,12 @@
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\spki-be0be1f1da5ba982.d: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\libspki-be0be1f1da5ba982.rlib: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md
+
+C:\Users\amirk\OneDrive\Desktop\task-new\target\release\deps\libspki-be0be1f1da5ba982.rmeta: C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md
+
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs:
+C:\Users\amirk\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md:
